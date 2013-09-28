@@ -1,4 +1,4 @@
 ipynotebook
 ===========
 
-My iPython Notebook. Nothing to see here but scraps thrown together while working on other things.
+I use these to help me think through development problems, and just to play around with Python.
